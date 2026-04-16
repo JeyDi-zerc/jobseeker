@@ -12,7 +12,7 @@
             <!-- Job Listing 1: Software Engineer -->
             <div class="rounded-lg shadow-md bg-white">
                 <div class="p-4">
-                    <h2 class="text-xl font-semibold">Software Engineer</h2>
+                    <h2 class="text-xl font-semibold">Software Engineers</h2>
                     <p class="text-gray-700 text-lg mt-2">
                         We are seeking a skilled software engineer to develop
                         high-quality software solutions.
